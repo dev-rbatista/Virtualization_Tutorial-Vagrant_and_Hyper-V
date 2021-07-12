@@ -8,6 +8,6 @@ The _Part1_ folder contains the steps regarding the Gradle Basic Demo part of th
 
 The _Part2_ folder regards the usage of Virtual Box and Vagrant in the SpringBoot Application.
 
-The _Part2_Alternative_ an alternative implementation of the _Part2_ using **Hyper-V** as a Virtualization provider instead of **Virtual Box**
+The _Part2_Alternative_ contains an alternative implementation of the _Part2_ using **Hyper-V** as a Virtualization provider instead of **Virtual Box**
 
 All the named folders have a detailed Readme representing the tutorial for each of the parts.
